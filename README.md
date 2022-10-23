@@ -23,7 +23,7 @@ Devil X 3；
 
 预制了用于UI构建的```Canvas```以及```Text```。
 
-![Prefabs]()
+![Prefabs](https://github.com/L1ttlepsycho/3D_Lab3/blob/master/Priest%20and%20Devil.sln)
 
 ## 代码结构
 实现了```MainSceneController```,通过```MainSceneController```对游戏对象接口```CreatureBehavior```,```BoatBehavior```,```IPlayerAction```进行调用,与玩家通过```UserInterface```中实现的UI进行交互。
