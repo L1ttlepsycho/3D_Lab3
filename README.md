@@ -445,3 +445,5 @@ Debug这块最折磨的就是各个游戏对象之间的交互逻辑了，各种
 真的好折磨QAQ
 ## 演示视频
 见项目文件
+
+https://github.com/L1ttlepsycho/3D_Lab3/blob/master/Priest%20and%20Devil%20-%20SampleScene%20-%20Windows%2C%20Mac%2C%20Linux%20-%20Unity%202021.3.8f1c1%20Personal%20_DX11_%202022-10-24%2003-23-47_Trim.mp4
